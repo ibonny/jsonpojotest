@@ -6,16 +6,6 @@ public class User {
     private int age;
     private Address address;
 
-    public User() {
-    }
-
-    // public User(String firstName, String lastName, int age, Address address) {
-    // this.firstName = firstName;
-    // this.lastName = lastName;
-    // this.age = age;
-    // this.address = address;
-    // }
-
     public String getFirstName() {
         return firstName;
     }
